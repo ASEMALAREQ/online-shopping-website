@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0;
+}
+
+div {
+    background-color: #97cdd6;
+    width: 100%;
+    position: fixed;
+    z-index:999;
+    display: flex;
+    align-items: center;
+
+}
+
+
+div img{
+    width: 10%;
+
+
+}
+.nav{
+display: inline;    
+padding: 10px 10px;
+margin-left:60%;
+
+
+
+}
+span a {
+    padding: 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color:rgb(14, 15, 15);
+    font-weight: 700;
+
+    
+}
