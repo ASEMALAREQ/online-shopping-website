@@ -3,7 +3,7 @@
     padding: 0;
 }
 
-div {
+.header {
     background-color: #97cdd6;
     width: 100%;
     position: fixed;
